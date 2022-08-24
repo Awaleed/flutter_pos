@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.thea.pos">
+    <application>
+        <service android:name="com.iposprinter.iposprinterservice.IPosPrintService" />
+    </application>
+</manifest>
